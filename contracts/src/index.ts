@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { CompatibilityCheck } from './CompatibilityCheck.js';
 
-export { Add };
+export { CompatibilityCheck };
